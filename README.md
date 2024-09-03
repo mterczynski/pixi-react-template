@@ -1,4 +1,4 @@
-# Pixi React Template
+# Pixi-react Template
 
 ## Setup
 
